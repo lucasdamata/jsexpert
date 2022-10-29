@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1a56cc97-6389-454f-9e18-1783f63beab1",
+    "name": "Colorado",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "14ff0689-3ca9-4ad7-b3ac-e41dda105bf6",
+    "name": "Grand Cherokee",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "24ffa0ff-6538-42b6-8413-87723aa610c8",
+    "name": "Model S",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]

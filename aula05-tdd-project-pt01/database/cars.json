@@ -1,0 +1,23 @@
+[
+  {
+    "id": "3804c69d-7ed4-471e-9df3-41e90d9e9f64",
+    "name": "Countach",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "5a8e510c-21c8-4674-a39d-7fcd5c35be76",
+    "name": "Altima",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "dec0362f-9d06-4e3c-8f69-a5f5b0b12cca",
+    "name": "Ranchero",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
